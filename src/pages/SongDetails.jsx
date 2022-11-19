@@ -55,8 +55,8 @@ const SongDetails = () => {
       </div>
 
       <RelatedSongs
-        data={data}
         isPlaying={isPlaying}
+        data={data}
         activeSong={activeSong}
         handlePauseClick={handlePauseClick}
         handlePlayClick={handlePlayClick}
