@@ -1,6 +1,6 @@
 # Final Application build using Netlify 
 
-link :- https://jk-lyriks-app.netlify.app
+### [Live Site](https://jk-lyriks-app.netlify.app)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b41b4c8e-ec71-4976-9827-0a68c1f17d86/deploy-status)](https://app.netlify.com/sites/jk-lyriks-app/deploys)
 
